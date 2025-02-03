@@ -2,6 +2,8 @@
 
 **'Desenvolvedor na graduação'**
 
+Me chamo Dennis De Andrade Viturino, tenho 20 anos de idade, sou natural de Campina Grande, Paraiba, Atualmente estou cursando Ciência da computação na Universidade Federal de Campina Grande UFCG, desde pequeno sou apaixonado por tecnologia e Automação, e meu primeiro contato foi no computador de meu tio.
+
 <a href="https://github.com/Dennis-Viturino?tab=followers">
   <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Dennis-Viturino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
 </a>
